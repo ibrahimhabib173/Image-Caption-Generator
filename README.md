@@ -1,4 +1,3 @@
-
 # 🖼️ Image Caption Generator using Deep Learning
 
 ## 📌 Overview
@@ -76,4 +75,3 @@ This project focuses on building an **AI-powered image captioning system** capab
 - Ahmed Samer Eid Abdulhamid
 - Radwa Walied Rabie Gad
 - Rawda Walied El Bassiouni
-
